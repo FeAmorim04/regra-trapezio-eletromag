@@ -1,6 +1,6 @@
+import numpy as np
 
 # Regra do Trapézio
-
 def regra_trapezio(f, a, b, n):
     """
     Parâmetros da função:
