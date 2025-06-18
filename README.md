@@ -39,4 +39,4 @@ A aproximação da integral é dada por:
 ### 2. Executar o código
 
 ```bash
-python campo_eletrico.py
+python integracao_numerica.py
