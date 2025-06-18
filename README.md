@@ -27,7 +27,7 @@ A aproximação da integral é dada por:
 
 ## 📁 Arquivos
 
-- `campo_eletrico.py`: contém todas as funções e cálculos numéricos com saída direta do valor de \( V_B \).
+- `integracao_numerica.py`: contém todas as funções e cálculos numéricos com saída direta do valor de \( V_B \).
 
 ## ▶️ Como Executar
 
